@@ -1,6 +1,6 @@
-# mma-exploration
 
 MMA Fight Analysis
+
 This project is an exploration of trends and patterns that occur across mixed martial arts bouts. The aim is to perform exploratory analysis and understand how different variables determine the probability of a specific outcome in a fight. The code for this project will be produced in Google Colab Jupyter Notebooks.
 
 
